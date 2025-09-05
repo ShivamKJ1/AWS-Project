@@ -5,8 +5,9 @@ window._config = {
     // clientSecret: 'aog8mmj873rg2b8jnmgqp80ih0qmt32psl715qpj33p1bc9avue',
     region: 'ap-south-1'
   },
-  api: { invokeUrl: '' }
+  api: { invokeUrl: 'https://4663oeicx2.execute-api.ap-south-1.amazonaws.com/dev' }
 };
+
 
 
 
